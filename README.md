@@ -1,8 +1,7 @@
 # Hi there, I'm Italo! 😁
 
-<a href="https://www.linkedin.com/in/italooliveiraf/">
-  <img align="left" alt="Italo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### Connect with me
+[![LinkedIn](https://www.linkedin.com/in/italooliveiraf/)](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
 
 <br clear="left"/>
 
