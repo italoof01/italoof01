@@ -1,7 +1,8 @@
 # Hi there, I'm Italo! 😁
 
+
 ### Connect with me
-[![LinkedIn](https://www.linkedin.com/in/italooliveiraf/)](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italooliveiraf/)
 
 <br clear="left"/>
 
