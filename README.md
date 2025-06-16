@@ -1,14 +1,17 @@
---- Hi there 😁 <br />
+# Hi there, I'm Italo! 😁
+
 <a href="https://www.linkedin.com/in/italooliveiraf/">
   <img align="left" alt="Italo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br />
-<br />
 
-Contact: <a rel="me" href="mailto:iof@ic.ufal.br">iof@ic.ufal.br</a><br/>
-Pronouns: he/him<br/>
+<br clear="left"/>
 
-My GitHub Stats:
+### About Me
+- 📫 **Contact:** [iof@ic.ufal.br](mailto:iof@ic.ufal.br)
+- 😄 **Pronouns:** he/him
+- 🎓 Student at Federal University of Alagoas (UFAL)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoof01)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+[![Italo's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoof01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=italoof01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
